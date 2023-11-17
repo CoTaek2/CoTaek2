@@ -3,11 +3,11 @@
   Hi, Welcome to Cotaek2's github
  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 </h1>
-
+<br>
 
 ### ❗️ What's updates ❗️
- - Busy day💦
- - studying coding💻️
+  - Busy day💦
+  - studying coding💻️
 <br>
 <hr>
 <h3>Things I code with</h3>
