@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @cotaek2
-- 👀 I’m interested in full-stack
-- 📫 How to reach me cotaek@gmail.com
+
