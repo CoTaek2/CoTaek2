@@ -1,8 +1,14 @@
-## 😎 Hi, Welcome cotaek2's page!!
+<h1>
+ <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  Hi, Welcome to Cotaek2's github
+ <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+</h1>
+
 
 ### ❗️ What's updates ❗️
+ - Busy day💦
  - studying coding💻️
-
+<br>
 <hr>
 <h3>Things I code with</h3>
 
