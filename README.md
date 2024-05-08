@@ -16,5 +16,4 @@
 
 <br>
 <h3>Connect with me</h3>
- <div><img src="./logo/velog.png" width=35 height=35 alt="GitHub Blog"> <strong>@cotaek_2</strong></div>
  <div><img src="./logo/Gmail.png" width=35 height=35 alt="Mail"> <strong>cotaek2@gmail.com</strong></div>
