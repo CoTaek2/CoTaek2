@@ -6,8 +6,18 @@
 
 <h3>Things I code with</h3>
 
-<img src="https://github.com/cotaek2/cotaek2/blob/cotaek.github.io/logo/free-icon-java-226777.png" height="30" width="30">
+
 <b>JAVA</b>
+<table>
+ <tr>
+  <th>
+   <img src="https://github.com/cotaek2/cotaek2/blob/cotaek.github.io/logo/free-icon-java-226777.png" height="30" width="30">   
+  </th>
+ </tr>
+ <tr>
+  <td>JAVA</td>
+ </tr>
+</table>
 
 <br>
 <h3>Connect with me</h3>
