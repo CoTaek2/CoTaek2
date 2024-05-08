@@ -5,9 +5,6 @@
 </h1>
 
 <h3>Things I code with</h3>
-
-
-<b>JAVA</b>
 <table>
  <tr>
   <th>
@@ -15,7 +12,7 @@
   </th>
  </tr>
  <tr>
-  <td>JAVA</td>
+  <td><b>JAVA</b></td>
  </tr>
 </table>
 
