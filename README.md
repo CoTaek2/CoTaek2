@@ -31,11 +31,12 @@
    <img src="https://github.com/cotaek2/cotaek2/blob/cotaek.github.io/logo/free-icon-java-226777.png" height="30" width="30">   
   </th>
   <th>
-   <img src="https://github.com/cotaek2/cotaek2/blob/cotaek.github.io/logo/icons8-%EB%B4%84-%EB%A1%9C%EA%B3%A0-48.pn)" height="30" width="30">   
+   <img src="https://github.com/cotaek2/cotaek2/blob/cotaek.github.io/logo/icons8-Spring.png" height="30" width="30">   
   </th>
  </tr>
  <tr>
   <td><b>JAVA</b></td>
+  <td><b>Spring</b></td>
  </tr>
 </table>
 
