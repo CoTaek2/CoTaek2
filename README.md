@@ -33,10 +33,14 @@
   <th>
    <img src="https://github.com/cotaek2/cotaek2/blob/cotaek.github.io/logo/icons8-Spring.png" height="30" width="30">   
   </th>
+  <th>
+   <img src="https://github.com/cotaek2/cotaek2/blob/cotaek.github.io/logo/logo-bird-ninja.png" height="30" width="30">   
+  </th>
  </tr>
  <tr>
   <td><b>JAVA</b></td>
   <td><b>Spring</b></td>
+  <td><b>MyBatis</b></td>
  </tr>
 </table>
 
